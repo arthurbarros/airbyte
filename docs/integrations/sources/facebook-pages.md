@@ -50,7 +50,7 @@ After all the steps, it should look something like this
 2. Set the name for your source.
 3. On the Set up the source page, enter the name for the Facebook Pages connector and select **Facebook Pages** from the Source type dropdown.
 4. Fill in Page Access Token with Long-Lived Page Token
-5. Fill in Page ID (if you have a page URL such as `https://www.facebook.com/Test-1111111111`, the ID would be`Test-1111111111`)
+5. Fill in Page ID (if you have a page URL such as `https://www.facebook.com/Test-1111111111`, the ID would be `Test-1111111111`)
 
 ## Supported sync modes
 
